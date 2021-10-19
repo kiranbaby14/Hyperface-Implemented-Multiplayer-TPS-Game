@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1b3469ffbda87da48be18ccfbb83318e, type: 3}
+  m_Name: AssaultRifle
+  m_EditorClassIdentifier: 
+  name: AssaultRifle
+  damage: 110
+  ammo: 100
+  clipsize: 10
+  firerate: 0.1
+  aimSpeed: 0
+  bloom: 20
+  recoil: 5
+  kickback: 0.03
+  reload: 1
+  gunshotSound: {fileID: 8300000, guid: 0e5ec5d798406aa4699be8c44dd7599f, type: 3}
+  pitchRandomization: 0.2
+  shotVolume: 0.8
+  prefab: {fileID: 7491598421972821761, guid: 8b636c184eae588469e51012e141e7bc, type: 3}
